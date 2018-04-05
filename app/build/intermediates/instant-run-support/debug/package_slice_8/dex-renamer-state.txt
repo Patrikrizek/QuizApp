@@ -1,0 +1,4 @@
+#Mon Feb 05 19:53:01 GMT 2018
+base.0=C\:\\Users\\Patrik Krizek\\AndroidStudioProjects\\QuizApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+renamed.0=classes.dex
+file.0=C\:\\Users\\Patrik Krizek\\AndroidStudioProjects\\QuizApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8\\classes.dex

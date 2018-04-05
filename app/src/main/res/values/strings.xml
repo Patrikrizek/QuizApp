@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">QuizApp</string>
+
+    <!-- Header [CHAR LIMIT=50] -->
+    <string name="header">How much do you know about Czech Republic?</string>
+
+    <!-- First question [CHAR LIMIT=80] -->
+    <string name="first_question">I. What is the capital of the Czech Republic?</string>
+
+    <!-- Hint text display in the empty field for the first question [CHAR LIMIT=30] -->
+    <string name="first_question_hint">Enter name of Capital</string>
+
+    <!-- Second question [CHAR LIMIT=80] -->
+    <string name="second_question">II. What are the traditional Czech products?</string>
+
+    <!-- Option answer for the second question [CHAR LIMIT=20] -->
+    <string name="second_question_option_one">Glass</string>
+
+    <!-- Option answer for the second question [CHAR LIMIT=20] -->
+    <string name="second_question_option_two">Steel</string>
+
+    <!-- Option answer for the second question [CHAR LIMIT=20] -->
+    <string name="second_question_option_three">Porcelain</string>
+
+    <!-- Option answer for the second question [CHAR LIMIT=20] -->
+    <string name="second_question_option_four">Carpets</string>
+
+    <!-- Third question [CHAR LIMIT=80] -->
+    <string name="third_question">III. What Czech hockey player is in the picture?</string>
+
+    <!-- Option answer for the third question [CHAR LIMIT=20] -->
+    <string name="third_question_option_one">Roman Hamrlik</string>
+
+    <!-- Option answer for the third question [CHAR LIMIT=20] -->
+    <string name="third_question_option_two">Jaromir Jagr</string>
+
+    <!-- Fourth question [CHAR LIMIT=80] -->
+    <string name="fourth_question">IV. What has the Czech Republic the highest drink consumption per capita in the world?</string>
+
+    <!-- Option answer for the fourth question [CHAR LIMIT=20] -->
+    <string name="fourth_question_option_one">Wine</string>
+
+    <!-- Option answer for the fourth question [CHAR LIMIT=20] -->
+    <string name="fourth_question_option_two">Beer</string>
+
+    <!-- Fifth question [CHAR LIMIT=80] -->
+    <string name="fifth_question">V. What novel/s was/were written by Milan Kundera?</string>
+
+    <!-- Option answer for the fifth question [CHAR LIMIT=20] -->
+    <string name="fifth_question_option_one">Life Is Elsewhere</string>
+
+    <!-- Option answer for the fifth question [CHAR LIMIT=20] -->
+    <string name="fifth_question_option_two">The Unbearable Lightness of Being</string>
+
+    <!-- Option answer for the fifth question [CHAR LIMIT=20] -->
+    <string name="fifth_question_option_three">The Ultimate Intimacy</string>
+
+    <!-- Button text for get a results of the quiz [CHAR LIMIT=20] -->
+    <string name="get_results">Get results</string>
+
+    <!-- Marking in Toast text [CHAR LIMIT=100] -->
+    <string name="excellent">5/5 Excellent, you are the Czech expert!</string>
+
+    <!-- Marking in Toast text [CHAR LIMIT=100] -->
+    <string name="great">4/5 Great, to get maximum score try the quiz one more time.</string>
+
+    <!-- Marking in Toast text [CHAR LIMIT=100] -->
+    <string name="good">3/5 Good, to get maximum score try the quiz one more time.</string>
+
+    <!-- Marking in Toast text [CHAR LIMIT=100] -->
+    <string name="sufficient">2/5 Sufficient, to get maximum score try the quiz one more time.</string>
+
+    <!-- Marking in Toast text [CHAR LIMIT=100] -->
+    <string name="insufficient">1/5 Insufficient, to get maximum score try the quiz one more time.</string>
+
+    <!-- Marking in Toast text [CHAR LIMIT=100] -->
+    <string name="oh_no">0/5 Oh, no answer is correct! To get maximum score try the quiz one more time.</string>
+
+</resources>
